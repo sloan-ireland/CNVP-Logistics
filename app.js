@@ -7,7 +7,9 @@ var californiaBounds = [
 // Initialize the map with maxBounds
 var mymap = L.map('mapid', {
     maxBounds: californiaBounds,
-    maxBoundsViscosity: 1.0 // Keeps the user within the bounds
+    maxBoundsViscosity: 1.0, // Keeps the user within the bounds
+    maxZoom: 10, // Set the maximum zoom level
+    minZoom: 6   // Set the minimum zoom level
 }).setView([36.7783, -119.4179], 6); // Centered on California with an appropriate zoom level
 
 // Add a tile layer 

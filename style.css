@@ -1,16 +1,21 @@
-/* Reset default margin and padding */
+
 body, html {
     margin: 0;
     padding: 0;
     height: 100%;
+    overflow: hidden; /* Prevent scrolling */
 }
-
-/* Center the map */
-#mapid {
-    width: 100%;
-    height: 100%;
+/* Center the map container */
+#map-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1in solid cornflowerblue; /* 1 inch thick solid border in cornflower blue */
+    height: 100%;
+}
+
+/* Style the map with a border */
+#mapid {
+    width: calc(100% - 1in); 
+    height: calc(100% - 1in); 
+    border: 0.5in solid cornflowerblue; 
 }

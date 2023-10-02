@@ -16,4 +16,4 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
-mymap.setMaxZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds
+mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds

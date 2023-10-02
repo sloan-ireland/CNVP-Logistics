@@ -14,3 +14,6 @@ var mymap = L.map('mapid', {
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
+
+var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
+mymap.setMaxZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds

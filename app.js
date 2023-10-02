@@ -1,5 +1,10 @@
 // Initialize the map
-var mymap = L.map('mapid').setView([34.052235, -118.243683], 13);
+var mymap = L.map('mapid', {
+    maxBounds: [
+        [32.5, -124.5], // Southwest corner of California
+        [42, -114]     // Northeast corner of California
+    ]
+}).setView([36.7783, -119.4179], 6);
 
 // Add a tile layer (e.g., OpenStreetMap)
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {

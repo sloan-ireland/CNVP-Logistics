@@ -33,18 +33,12 @@ var tribalLocations = [
     // Add more locations here
 ];
 
-// Define a custom blue icon
-var blueIcon = new L.Icon({
-    iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon-2x-blue.png',
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-});
+
 
 // Add markers with popups
 for (var i = 0; i < tribalLocations.length; i++) {
     var location = tribalLocations[i];
-    L.marker([location.lat, location.lon], { icon: blueIcon })
+    L.marker([location.lat, location.lon])
         .bindPopup(location.name)
         .addTo(mymap);
 }

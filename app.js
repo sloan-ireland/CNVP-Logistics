@@ -1,4 +1,3 @@
-
 var californiaBounds = [
     [32.5, -124.5], // Southwest corner of California
     [42, -114]     // Northeast corner of California
@@ -20,7 +19,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds
 
-
 var tribalLocations = [
     { name: "Agua Caliente Band of Cahuilla Indians", lat: 33.809212, lon: -116.525694 },
     { name: "Augustine Band of Cahuilla Indians", lat: 33.685378, lon: -116.142309 },
@@ -35,18 +33,18 @@ var tribalLocations = [
     // Add more locations here
 ];
 
-//add markers with popups
-for (var i = 0; i < tribalLocations.length; i++) {
-    var location = tribalLocations[i];
-    L.marker([location.lat, location.lon], { icon: blueIcon })
-        .bindPopup(location.name)
-        .addTo(map);
-}
-
-//custom blue icon
+// Define a custom blue icon
 var blueIcon = new L.Icon({
     iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon-2x-blue.png',
     iconSize: [25, 41],
     iconAnchor: [12, 41],
     popupAnchor: [1, -34],
 });
+
+// Add markers with popups
+for (var i = 0; i < tribalLocations.length; i++) {
+    var location = tribalLocations[i];
+    L.marker([location.lat, location.lon], { icon: blueIcon })
+        .bindPopup(location.name)
+        .addTo(mymap);
+}

@@ -16,6 +16,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
 
+
+L.marker([33.809212, -116.525694]).addTo(map)
+.bindPopup('Agua Caliente Band of Cahuilla Indians');
+
+
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds
 /*
@@ -43,6 +48,3 @@ for (var i = 0; i < tribalLocations.length; i++) {
         .addTo(mymap);
 }
 */
-
-var marker = L.marker([33.809212, -116.525694 ]).addTo(map)
-.bindPopup('Agua Caliente Band of Cahuilla Indians');

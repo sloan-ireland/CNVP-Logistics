@@ -44,4 +44,5 @@ for (var i = 0; i < tribalLocations.length; i++) {
 }
 */
 
-var marker = L.marker([33.809212, -116.525694 ]).addTo(map).bindPopup("Agua Caliente Band of Cahuilla Indians");
+var marker = L.marker([33.809212, -116.525694 ]).addTo(map)
+.bindPopup('Agua Caliente Band of Cahuilla Indians');

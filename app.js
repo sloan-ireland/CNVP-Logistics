@@ -17,7 +17,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 
-L.marker([33.809212, -116.525694]).addTo(map)
+L.marker([34.0664,-118.1685]).addTo(map)
 .bindPopup('Agua Caliente Band of Cahuilla Indians');
 
 

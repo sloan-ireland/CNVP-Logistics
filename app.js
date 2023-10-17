@@ -18,6 +18,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds
+
+// Add a marker
+
+var marker = L.marker([33.9806, 117.3755]).addTo(map);
+
 /*
 var tribalLocations = [
     { name: "Agua Caliente Band of Cahuilla Indians", lat: 33.809212, lon: -116.525694 },
@@ -43,5 +48,3 @@ for (var i = 0; i < tribalLocations.length; i++) {
         .addTo(mymap);
 }
 */
-
-var marker = L.marker([33.809212, -116.525694 ]).addTo(map);

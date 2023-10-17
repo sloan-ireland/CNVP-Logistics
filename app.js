@@ -23,6 +23,11 @@ L.marker([34.0664,-118.1685]).addTo(map)
 
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds
+
+// Add a marker
+
+var marker = L.marker([33.9806, 117.3755]).addTo(map);
+
 /*
 var tribalLocations = [
     { name: "Agua Caliente Band of Cahuilla Indians", lat: 33.809212, lon: -116.525694 },

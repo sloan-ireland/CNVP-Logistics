@@ -1,11 +1,24 @@
 /*
 html, body {
     height: 100%;
+
+body, html {
     margin: 0;
     padding: 0;
+    height: 100%;
+    overflow: hidden; /* Prevent scrolling */
+    
+/* Center the map container */
+#map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 
+/* Style the map with a border */
 #mapid {
-    height: 100px;
-
-}*/
+    width: calc(100% - 1in); 
+    height: calc(100% - 1in); 
+    border: 0.5in solid cornflowerblue; 
+}

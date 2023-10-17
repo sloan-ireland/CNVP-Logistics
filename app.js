@@ -20,6 +20,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.marker([34.0664,-118.1685]).addTo(mymap)
 .bindPopup('Agua Caliente Band of Cahuilla Indians');
 
+L.marker([41.5265,124.0384]).addTo(mymap)
+.bindPopup('Yurok Tribe');
+
 
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds

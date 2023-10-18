@@ -29,6 +29,11 @@ var markers = [
     {
         coords: [33.680302, -116.173897],
         popupText: 'Augustine Band of Cahuilla Indians'
+    },
+    {
+        coords: [41.4871, -120.5425],
+        popupText: 'Alturas Rancheria'
+
     }
     // Add more markers here
 ];

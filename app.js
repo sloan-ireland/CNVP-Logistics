@@ -20,8 +20,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var markers = [
     {
         coords: [34.0664, -118.1685],
-        popupText: 'Agua Caliente Band of Cahuilla Indians'
-    },
+        popupText: [
+            'Line 1 for Agua Caliente Band of Cahuilla Indians',
+            'Line 2 for Agua Caliente Band of Cahuilla Indians'
+        ]
+    }/*,
     {
         coords: [38.590576, -121.489906],
         popupText: 'Buena Vista Rancheria of Me-Wuk Indians'
@@ -47,16 +50,26 @@ var markers = [
         coords: [37.8183, -118.4770],
         popupText: 'Benton Paiute - U-tu Utu Gwaitu Paiute Tribe'
     }
-    // Add more markers here
+    // Add more markers here*/
 ];
 
 markers.forEach(function(marker) {
     var newMarker = L.marker(marker.coords).addTo(mymap);
 
     if (marker.popupText) {
-        newMarker.bindPopup(marker.popupText);
+        // Join the lines of text from the array with line breaks
+        var popupContent = marker.popupText.join('<br>');
+
+        newMarker.bindPopup(popupContent);
     }
 });
+/*markers.forEach(function(marker) {
+    var newMarker = L.marker(marker.coords).addTo(mymap);
+
+    if (marker.popupText) {
+        newMarker.bindPopup(marker.popupText);
+    }
+});*/
 
 
 

@@ -21,8 +21,12 @@ var markers = [
     {
         coords: [34.0664, -118.1685],
         popupText: [
-            'Line 1 for Agua Caliente Band of Cahuilla Indians',
-            'Line 2 for Agua Caliente Band of Cahuilla Indians'
+            'Agua Caliente Band of Cahuilla Indians',
+            'Reid D. Milanovich (Chairman)',
+            'Tel: (760) 699-6800',
+            'Fax: (760) 699-6919',
+            'Recognition Status: Federal',
+            '5401 Dinah Shore Dr Palm Springs, CA92264-5970'
         ]
     },
     {

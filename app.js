@@ -25,6 +25,10 @@ var markers = [
     {
         coords: [38.590576, -121.489906],
         popupText: 'Buena Vista Rancheria of Me-Wuk Indians'
+    },
+    {
+        coords: [33.680302, -116.173897],
+        popupText: 'Augustine Band of Cahuilla Indians'
     }
     // Add more markers here
 ];

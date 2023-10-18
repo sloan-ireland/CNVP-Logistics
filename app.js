@@ -17,8 +17,30 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
 
-L.marker([34.0664,-118.1685]).addTo(mymap)
-.bindPopup('Agua Caliente Band of Cahuilla Indians');
+var markers = [
+    {
+        coords: [34.0664, -118.1685],
+        popupText: 'Agua Caliente Band of Cahuilla Indians'
+    },
+    {
+        coords: [41.5265, 124.0384],
+        popupText: 'Yurok Tribe'
+    }
+    // Add more markers here
+];
+
+markers.forEach(function(marker) {
+    var newMarker = L.marker(marker.coords).addTo(mymap);
+
+    if (marker.popupText) {
+        newMarker.bindPopup(marker.popupText);
+    }
+});
+
+
+
+/*L.marker([34.0664,-118.1685]).addTo(mymap)
+.bindPopup('Agua Caliente Band of Cahuilla Indians');*/
 
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds

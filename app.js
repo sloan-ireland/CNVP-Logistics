@@ -34,6 +34,18 @@ var markers = [
         coords: [41.4871, -120.5425],
         popupText: 'Alturas Rancheria'
 
+    },
+    {
+        coords: [32.8573, -116.9222],
+        popupText: 'Barona Band of Mission Indians'
+    },
+    {
+        coords: [40.6411, -124.2263],
+        popupText: 'Bear River Band of Rohnerville Rancheria'
+    },
+    {
+        coords: [37.8183, -118.4770],
+        popupText: 'Benton Paiute - U-tu Utu Gwaitu Paiute Tribe'
     }
     // Add more markers here
 ];

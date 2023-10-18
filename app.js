@@ -24,33 +24,33 @@ var markers = [
             'Line 1 for Agua Caliente Band of Cahuilla Indians',
             'Line 2 for Agua Caliente Band of Cahuilla Indians'
         ]
-    }/*,
+    },
     {
         coords: [38.590576, -121.489906],
-        popupText: 'Buena Vista Rancheria of Me-Wuk Indians'
+        popupText: ['Buena Vista Rancheria of Me-Wuk Indians']
     },
     {
         coords: [33.680302, -116.173897],
-        popupText: 'Augustine Band of Cahuilla Indians'
+        popupText: ['Augustine Band of Cahuilla Indians']
     },
     {
         coords: [41.4871, -120.5425],
-        popupText: 'Alturas Rancheria'
+        popupText: ['Alturas Rancheria']
 
     },
     {
         coords: [32.8573, -116.9222],
-        popupText: 'Barona Band of Mission Indians'
+        popupText: ['Barona Band of Mission Indians']
     },
     {
         coords: [40.6411, -124.2263],
-        popupText: 'Bear River Band of Rohnerville Rancheria'
+        popupText: ['Bear River Band of Rohnerville Rancheria']
     },
     {
         coords: [37.8183, -118.4770],
-        popupText: 'Benton Paiute - U-tu Utu Gwaitu Paiute Tribe'
+        popupText: ['Benton Paiute - U-tu Utu Gwaitu Paiute Tribe']
     }
-    // Add more markers here*/
+    // Add more markers here
 ];
 
 markers.forEach(function(marker) {

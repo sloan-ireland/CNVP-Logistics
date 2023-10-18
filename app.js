@@ -45,7 +45,7 @@ var markers = [
     },
     {
         coords: [37.8183, -118.4770],
-        popupText: 'Benton Paiute - U-tu Utu Gwaitu Paiute Tribe'
+        popupText: <h2>Benton Paiute - U-tu Utu Gwaitu Paiute Tribe</h2>
     }
     // Add more markers here
 ];

@@ -23,8 +23,8 @@ var markers = [
         popupText: 'Agua Caliente Band of Cahuilla Indians'
     },
     {
-        coords: [41.5265, 124.0384],
-        popupText: 'Yurok Tribe'
+        coords: [38.590576, -121.489906],
+        popupText: 'Buena Vista Rancheria of Me-Wuk Indians'
     }
     // Add more markers here
 ];

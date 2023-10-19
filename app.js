@@ -41,7 +41,13 @@ var markers = [
     },
     {
         coords: [41.4871, -120.5425],
-        popupText: ['Alturas Rancheria']
+        popupText: ['Alturas Rancheria',
+                    'Darren Rose and Wendy Del Rosa (Co-Chairpersons)',
+                    'Tel: Fax: (530) 233-4165',
+                    'Recognition Status: Federal',
+                    'PO Box 340',
+                    'Alturas, CA96101-0340'
+                ]
 
     },
     {

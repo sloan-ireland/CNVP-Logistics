@@ -73,6 +73,18 @@ var markers = [
     {
         coords: [39.0430, -122.9158],
         popupText: ['Big Valley Rancheria']
+    },
+    {
+        coords: [37.3614, -1118.3952],
+        popupText: ['Bishop Paiute Trib']
+    },
+    {
+        coords: [40.8829, -123.9839],
+        popupText: ['Blue Lake Rancheria']
+    },
+    {
+        coords: [38.258308, -119.2314],
+        popupText: ['Bridgeport Paiute Indian Colony']
     }
     // Add more markers here
 ];

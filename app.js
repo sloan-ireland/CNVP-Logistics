@@ -1,6 +1,6 @@
 var californiaBounds = [
     [32.5, -124.5], // Southwest corner of California
-    [42, -114]     // Northeast corner of California
+    [46, -114]     // Northeast corner of California
 ];
 
 

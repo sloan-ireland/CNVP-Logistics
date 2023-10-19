@@ -20,7 +20,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 fetch('California_County_Boundaries.js')
     .then(response => response.json())
     .then(data => {
-        L.geoJSON(data).addTo(map);
+        L.geoJSON(data).addTo(mymap);
     });
 
 var markers = [

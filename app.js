@@ -16,15 +16,15 @@ var mymap = L.map('mapid', {
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
-/*
+
 fetch('California_County_Boundaries.js')
     .then(response => response.json())
     .then(data => {
         L.geoJSON(data).addTo(mymap);
     });
-*/
+
 //add the tribal borders to the map
-fetch('Tribal_Boundaries.js')
+fetch('Federally_Recognized_Tribal_Lands.geojson')
     .then(response => response.json())
     .then(data => {
         L.geoJSON(data).addTo(mymap);

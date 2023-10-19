@@ -245,6 +245,111 @@ var markers = [
                     'PO Box 391760',
                     'Anza, CA92539-1760'
     ]
+    },
+    {
+        coords: [37.6635, -120.4635],
+        popupText: ['California Valley Miwok Tribe',
+                    'Silvia Burley (Chairperson)',
+                    'Tel: (209) 931-4567',
+                    'Fax: (209) 931-4333',
+                    'Recognition Status: Federal',
+                    '14807 Avenida Central',
+                    'LaGrange, CA95329-9400'
+    ]
+    },
+    {
+        coords: [32.6076, -116.4697],
+        popupText: ['Campo Band of Mission Indians',
+                    'Ralph Goff (Chairman)',
+                    'Tel: (619) 478-9046',
+                    'Fax: (619) 478-5818',
+                    'Recognition Status: Federal',
+                    '36190 Church Rd Ste 1',
+                    'Campo, CA91906-2732'
+    ]
+    },
+    {
+        coords: [33.8317, -118.2817],
+        popupText: ['Carson Colony (Washoe Tribes of Nevada & California)',
+                    'Gary Nevers (Chaiman)',
+                    'Gary Nevers (Chaiman)',
+                    'Fax: (775) 265-6240',
+                    'Recognition Status: Federal',
+                    '2900 South Curry Street',
+                    'Carson City, NV89703'
+    ]
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cedarville Rancheria',
+                    'Melissa Davis (Chairwoman)',
+                    'Tel: (530) 233-3969',
+                    'Fax: (530) 233-4776',
+                    'Recognition Status: Federal',
+                    '300 W 1st St',
+                    'Alturas, CA96101-3905'
+    ]
+    },
+    {
+        coords: [41.0593, -124.1431],
+        popupText: ['Cher-Ae Heights Indian Community of the Trinidad Rancheria',
+                    'Garth Sundberg (Chairperson)',
+                    'Tel: (707) 677-0211',
+                    'Fax: (707) 677-3921',
+                    'Recognition Status: Federal',
+                    'PO Box 630',
+                    'Trinidad, CA95570-0630'
+    ]
+    },
+    {
+        coords: [37.9533, -120.4227],
+        popupText: ['Chicken Ranch Rancheria of Me-Wuk Indians of California',
+                    'Lloyd Mathieson (Chairman)',
+                    'Tel: (209) 984-4806',
+                    'Fax: (209) 984-5606',
+                    'Recognition Status: Federal',
+                    'PO Box 1159',
+                    'Jamestown, CA95327-1159'
+    ]
+    },
+    {
+        coords: [38.8055, -123.0172],
+        popupText: ['Cloverdale Rancheria',
+                    'Patricia Hermosillo (Chairperson)',
+                    'Tel: (707) 894-5775',
+                    'Fax: (707) 894-5727',
+                    'Recognition Status: Federal',
+                    '555 S Cloverdale Blvd Ste A',
+                    'Cloverdale, CA95425-4020'
+    ]
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
     }
     // Add more markers here
 ];

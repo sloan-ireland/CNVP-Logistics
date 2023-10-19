@@ -53,6 +53,26 @@ var markers = [
     {
         coords: [37.8183, -118.4770],
         popupText: ['Benton Paiute - U-tu Utu Gwaitu Paiute Tribe']
+    },
+    {
+        coords: [39.511608, -121.556725],
+        popupText: ['Berry Creek Rancheria of Maidu Indians of California']
+    },
+    {
+        coords: [41.0593, -124.1431],
+        popupText: ['Big Lagoon Rancheria']
+    },
+    {
+        coords: [37.1649, -118.2895],
+        popupText: ['Big Pine Paiute Tribe of the Owens Valley']
+    },
+    {
+        coords: [37.0808, -119.4854],
+        popupText: ['Big Sandy Rancheria']
+    },
+    {
+        coords: [39.0430, -122.9158],
+        popupText: ['Big Valley Rancheria']
     }
     // Add more markers here
 ];

@@ -85,6 +85,26 @@ var markers = [
     {
         coords: [38.258308, -119.2314],
         popupText: ['Bridgeport Paiute Indian Colony']
+    },
+    {
+        coords: [38.5816, -121.4944],
+        popupText: ['Buena Vista Rancheria of Me-Wuk Indians']
+    },
+    {
+        coords: [33.7206, -116.2156],
+        popupText: ['Cabazon Band of Mission Indians']
+    },
+    {
+        coords: [39.2143, -122.0094],
+        popupText: ['Cachil Dehe Band of Wintun Indians of the Colusa Indian Rancheria']
+    },
+    {
+        coords: [39.6882, -123.4828],
+        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+    },
+    {
+        coords: [33.5553, -116.6742],
+        popupText: ['Cahuilla Band of Mission Indians of the Cahuilla Reservation']
     }
     // Add more markers here
 ];

@@ -324,8 +324,16 @@ var markers = [
     ]
     },
     {
-        coords: [39.6882, -123.4828],
-        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+        coords: [37.0190, -1119.3992],
+        popupText: ['Cold Springs Rancheria',
+                    'Jeffery Lee (Chairman)',
+                    'Tel: (559) 855-5043',
+                    'Fax: (559) 855-4445',
+                    'Fax: (559) 855-4445',
+                    'PO Box 209',
+                    'Tollhouse, CA93667-0209'
+
+    ]
     },
     {
         coords: [39.6882, -123.4828],

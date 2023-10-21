@@ -336,28 +336,72 @@ var markers = [
     ]
     },
     {
-        coords: [39.6882, -123.4828],
-        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+        coords: [39.1546, -122.1494],
+        popupText: ['Cortina Band of Wintun Indians',
+                    'Charlie Wright (Tribal Chairman)',
+                    'Tel: (530) 473-3274',
+                    'Fax: (530) 473-3301',
+                    'Recognition Status: Federal',
+                    'PO Box 1630',
+                    'Williams, CA95987-1630',
+                    
+    ]
     },
     {
-        coords: [39.6882, -123.4828],
-        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+        coords: [39.2652, -123.2041],
+        popupText: ['Coyote Valley Band of Pomo Indians',
+                    'Michael Hunter (Chairman)',
+                    'Tel: (707) 485-8723',
+                    'Fax: (707) 485-1247',
+                    'Recognition Status: Federal',
+                    'PO Box 39',
+                    'Redwood Valley, CA95470-0039'
+    ]
     },
     {
-        coords: [39.6882, -123.4828],
-        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+        coords: [38.9413, -119.7496],
+        popupText: ['Dresslerville Colony (Washoe Tribes of Nevada & California)',
+                    'Rueben Vasquez(Chairman)',
+                    'Tel: (775) 265-4191',
+                    'Fax: (775) 265-6240',
+                    'Recognition Status: Federal',
+                    '919 Highwway 395 South',
+                    'Gardnerville, NV89410'
+    ]
     },
     {
-        coords: [39.6882, -123.4828],
-        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+        coords: [38.7075, -122.9028],
+        popupText: ['Dry Creek Rancheria Band of Pomo Indians',
+                    'Chris Wright (Chairman)',
+                    'Tel: (707) 431-4090',
+                    'Fax: (707) 857-3794',
+                    'Recognition Status: Federal',
+                    'PO Box 607',
+                    'Geyserville, CA95441-0607'
+    ]
     },
     {
-        coords: [39.6882, -123.4828],
-        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+        coords: [38.9105, -122.6103],
+        popupText: ['Elem Indian Colony',
+                    'Augustin Garcia (Chairman)',
+                    'Tel: (707) 998-3400',
+                    'Fax: (707) 994-3408',
+                    'Recognition Status: Federal',
+                    'PO Box 757',
+                    'Lower Lake, CA95457'
+    ]
     },
     {
-        coords: [39.6882, -123.4828],
-        popupText: ['Cahto Tribe of the Laytonville Rancheria']
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria',
+                    'Dale A. Miller (Chairman)',
+                    'Tel: (707) 464-4680',
+                    'Fax: (707) 464-4519',
+                    'Recognition Status: Federal',
+                    '2332 Howland Hill Road',
+                    'Crescent City, CA95531-9238'
+
+    ]
     }
     // Add more markers here
 ];

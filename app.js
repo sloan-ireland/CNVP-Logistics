@@ -400,8 +400,137 @@ var markers = [
                     'Recognition Status: Federal',
                     '2332 Howland Hill Road',
                     'Crescent City, CA95531-9238'
+                    
 
     ]
+    },
+    {
+        coords: [39.5138, -121.5564],
+        popupText: ['Enterprise Rancheria Estom Yumeka Maidu Tribe',
+                    'Glenda Nelson (Tribal Chairperson)',
+                    'Tel: (530) 532-9214',
+                    'Fax: (530) 532-1768',
+                    'Recognition Status: Federal',
+                    '2133 Monte Vista Ave',
+                    'Oroville, CA95966-6968'
+    
+    ]
+    },
+    {
+        coords: [32.8351, -116.7664],
+        popupText: ['Ewiiaapaayp Band of Kumeyaay Indians',
+                    'Robert Pinto (Chairman)',
+                    'Tel: (619) 445-6315',
+                    'Fax: (619) 445-9126',
+                    'Recognition Status: Federal',
+                    '4054 Willows Road',
+                    'Alpine, CA91901-1620'
+    
+    ]
+    },
+    {
+        coords: [38.3396, -122.7011],
+        popupText: ['Federated Indians of Graton Rancheria',
+                    'Greg Sarris (Chairman)',
+                    'Tel: (707) 566-2288',
+                    'Fax: (707) 566-2291',
+                    'Recognition Status: Federal',
+                    '6400 Redwood Drive, Suite 300',
+                    'Rohnert Park, CA94928-2341'
+    
+    ]
+    },
+    {
+        coords: [41.8605, -120.1521],
+        popupText: ['Fort Bidwell Paiute Indian Reservation',
+                    'Bernold Pollard (Chairman)',
+                    'Tel: (530) 279-6310',
+                    'Fax: (530) 279-2233',
+                    'Recognition Status: Federal',
+                    'PO Box 129',
+                    'Fort Bidwell, CA96112-0129'
+    
+    ]
+    },
+    {
+        coords: [36.8025, -118.1997],
+        popupText: ['Fort Independence Indian Reservation',
+                    'Norm Wilder (Chairman)',
+                    'Tel: (760) 878-5160',
+                    'Fax: (760) 878-2311',
+                    'Recognition Status: Federal',
+                    'PO Box 67',
+                    'Independence, CA93526-0067'
+    
+    ]
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Elk Valley Rancheria']
     }
     // Add more markers here
 ];

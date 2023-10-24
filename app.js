@@ -25,7 +25,7 @@ fetch('Federally_Recognized_Tribal_Lands.geojson')
     .then(data => {
         L.geoJSON(data).addTo(mymap);
     });
-
+// adds markers
 var markers = [
     {
         coords: [34.0664, -118.1685],
@@ -557,7 +557,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.7558, -124.2026],
+        coords: [38.4819, -120.8447],
         popupText: ['Ione Band of Miwok Indians',
                     'Yvonne Miller (Chairperson)',
                     'Tel: (209) 245-5800',
@@ -569,36 +569,93 @@ var markers = [
     ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
+        coords: [38.3488, -120.7741],
+        popupText: ['Jackson Rancheria',
+                    'Adam Dalton (Chairman)',
+                    'Tel: (209) 223-1935',
+                    'Fax: (209) 223-5366',
+                    'Recognition Status: Federal',
+                    'PO Box 1090',
+                    'Jackson, CA95642-1090'
+    ]
+    },
+    {
+        coords: [32.7170 -116.8761],
+        popupText: ['Jamul Indian Village',
+                    'Erica Pinto (Chairwoman)',
+                    'Tel: (619) 669-4785',
+                    'Fax: (619) 669-4817',
+                    'Recognition Status: Federal',
+                    'PO Box 612',
+                    'Jamul, CA91935-0612'
+    ]
+    },
+    {
+        coords: [33.5019, -117.6628],
+        popupText: ['Juaneno Band of Mission Indians',
+                    'Teresa M. Romero (Chairwoman)',
+                    'Tel: (949) 488-3484',
+                    'Fax: (949) 488-3294',
+                    'Recognition Status: State',
+                    '31411 La Matanza St Ste A',
+                    'San Juan Capistrano, CA92675-2674'
+    ]
+    },
+    {
+        coords: [41.7927, -123.3786],
+        popupText: ['Karuk Tribe of California',
+                    'Russell Attebery (Chairman)',
+                    'Tel: (530) 493-1600',
+                    'Fax: (530) 493-5322',
+                    'Recognition Status: Federal',
+                    'PO Box 1016',
+                    'Happy Camp, CA96039-1016'
+    ]
+    },
+    {
+        coords: [33.3034, -116.9814],
+        popupText: ['La Jolla Band of Luiseno Indians',
+                    'La Vonne Peck (Chair)',
+                    'Tel: (760) 742-3771',
+                    'Fax: (760) 742-1704',
+                    'Recognition Status: Federal',
+                    '22003 Highway 76',
+                    'Pauma Valley, CA92061-9721'
+    ]
+    },
+    {
+        coords: [32.6636, -116.2738],
+        popupText: ['La Posta Band of Mission Indians',
+                    'Gwendolyn Parada (Chairperson)',
+                    'Tel: (619) 478-2113',
+                    'Fax: (619) 478-2125',
+                    'Recognition Status: Federal',
+                    '8 Crestwood Rd',
+                    'Boulevard, CA91905-0220'
+    ]
+    },
+    {
+        coords: [36.606045, -118.062866],
+        popupText: ['Lone Pine Paiute Shoshone Reservation',
+                    'Mary Weuster(Chairperson)',
+                    'Tel: (760) 876-1034',
+                    'Fax: (760) 876-8302',
+                    'Recognition Status: Federal',
+                    'PO Box 747',
+                    'Lone Pine, CA93545-0747'
+
+    ]
     },
     {
         coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
+        popupText: ['Los Coyotes Band of Cahuilla and Cupeno Indians',
+                    'Shane Chapparosa (Chairperson)',
+                    'Tel: (760) 782-0711',
+                    'Fax: (760) 782-2701',
+                    'Recognition Status: Federal',
+                    'PO Box 189',
+                    'Warner Springs, CA92086-0189'
+    ]
     }
     // Add more markers here
 ];

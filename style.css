@@ -18,3 +18,7 @@ body, html {
     height: calc(100% - 1in); 
     border: 0.5in solid rgb(234, 53, 12); 
 }
+
+#marker {
+    color: orange
+}

@@ -465,40 +465,108 @@ var markers = [
     ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
+        coords: [40.1396, -120.9511],
+        popupText: ['Greenville Rancheria',
+                    'Kyle Self (Chairman)',
+                    'Tel: (530) 284-7990',
+                    'Fax: (530) 284-6612',
+                    'Recognition Status: Federal',
+                    'PO Box 279',
+                    'Greenville, CA95947-0279'
+    ]
+    },
+    {
+        coords: [39.6051, -122.5398],
+        popupText: ['Grindstone Indian Rancheria',
+                    'Ronald Kirk (Chairman)',
+                    'Tel: (530) 968-5365',
+                    'Fax: (530) 968-5366',
+                    'Recognition Status: Federal',
+                    'PO Box 63',
+                    'Elk Creek, CA95939-0063',
+
+    ]
+    },
+    {
+        coords: [39.1332, -123.1678],
+        popupText: ['Guidiville Indian Rancheria',
+                    'Merlene Sanchez (Acting Chairperson)',
+                    'Tel: (707) 462-3682',
+                    'Fax: (707) 462-9183',
+                    'Recognition Status: Federal',
+                    'PO Box 339',
+                    'Talmage, CA95481-0339'
+
+    ]
+    },
+    {
+        coords: [39.1646, -122.9106],
+        popupText: ['Habematolel Pomo of Upper Lake',
+                    'Sherry Treppa (Chairperson)',
+                    'Tel: (707) 275-0737',
+                    'Fax: (707) 275-0757',
+                    'Recognition Status: Federal',
+                    'PO Box 516',
+                    'Upper Lake, CA95485-0516'
+
+    ]
+    },
+    {
+        coords: [41.0492, -123.6770],
+        popupText: ['Hoopa Valley Tribe',
+                    'Ryan p. Jackson (Chairman)',
+                    'Tel: (530) 625-4211',
+                    'Fax: (530) 625-4594',
+                    'Recognition Status: Federal',
+                    'PO Box 1348',
+                    'Hoopa, CA95546-1348'
+    ]
+    },
+    {
+        coords: [38.9730, -123.1164],
+        popupText: ['Hopland Band of Pomo Indians',
+                    'Sonny J. Elliott, Sr. (Chairman)',
+                    'Tel: (707) 472-2100',
+                    'Fax: (707) 744-9101',
+                    'Recognition Status: Federal',
+                    '3000 Shanel Road',
+                    'Hopland, CA95449-9809'
+    ]
+    },
+    {
+        coords: [33.1092 -116.6738],
+        popupText: ['Iipay Nation of Santa Ysabel Band',
+                    'Virgil Perez (Chairman)',
+                    'Tel: (760) 765-0846',
+                    'Fax: (760) 765-2545',
+                    'Recognition Status: Federal',
+                    'PO Box 130',
+                    'Santa Ysabel, CA92070-0130'
+    ]
+    },
+    {
+        coords: [33.1192, -117.0864],
+        popupText: ['Inaja-Cosmit Band of Mission Indians',
+                    'Rebecca Osuna (Chairwoman)',
+                    'Tel: (760) 737-7628',
+                    'Fax: (760) 747-8568',
+                    'Recognition Status: Federal',
+                    '2005 S Escondido Boulevard',
+                    'Escondido, CA92025-8207'
+
+    ]
     },
     {
         coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
-    },
-    {
-        coords: [41.7558, -124.2026],
-        popupText: ['Elk Valley Rancheria']
+        popupText: ['Ione Band of Miwok Indians',
+                    'Yvonne Miller (Chairperson)',
+                    'Tel: (209) 245-5800',
+                    'Fax: (209) 245-3112',
+                    'Recognition Status: Federal',
+                    'PO Box 699',
+                    'Plymouth, CA95669-0699'
+
+    ]
     },
     {
         coords: [41.7558, -124.2026],

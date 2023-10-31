@@ -28,7 +28,7 @@ fetch('Federally_Recognized_Tribal_Lands.geojson')
 // adds markers
 var markers = [
     {
-        coords: [34.0664, -118.1685],
+        coords: [33.808101, -116.487954],
         popupText: [
             'Agua Caliente Band of Cahuilla Indians',
             'Reid D. Milanovich (Chairman)',
@@ -39,7 +39,7 @@ var markers = [
         ]
     },
     {
-        coords: [38.590576, -121.489906],
+        coords: [38.5715938, -121.4823938],
         popupText: ['Buena Vista Rancheria of Me-Wuk Indians',
                     'Rhonda Morningstar Pope (Chairperson)',
                     'Tel: (916) 491-0011',
@@ -49,7 +49,7 @@ var markers = [
     ]
     },
     {
-        coords: [33.680302, -116.173897],
+        coords: [33.6885095, -116.1477598],
         popupText: ['Augustine Band of Cahuilla Indians',
                     'Amanda Vance (Chairperson)',
                     'Tel: (760) 398-4722',
@@ -60,7 +60,7 @@ var markers = [
                 ]
     },
     {
-        coords: [41.4871, -120.5425],
+        coords: [41.4871146, -120.5424555],
         popupText: ['Alturas Rancheria',
                     'Darren Rose and Wendy Del Rosa (Co-Chairpersons)',
                     'Tel: Fax: (530) 233-4165',
@@ -71,7 +71,7 @@ var markers = [
 
     },
     {
-        coords: [32.8573, -116.9222],
+        coords: [32.9421047, -116.8559394],
         popupText: ['Barona Band of Mission Indians',
                     'Edwin "Thorpe" Romero (Chairman)',
                     'Tel: (619) 443-6612',
@@ -81,7 +81,7 @@ var markers = [
     ]
     },
     {
-        coords: [40.6411, -124.2263],
+        coords: [40.6301812,-124.2022063],
         popupText: ['Bear River Band of Rohnerville Rancheria',
                     'Josafina Cortez (Chairwoman)',
                     'Tel: (707) 733-1900',
@@ -91,7 +91,7 @@ var markers = [
     ]
     },
     {
-        coords: [37.8183, -118.4770],
+        coords: [37.8909018, -118.5564526],
         popupText: ['Benton Paiute - U-tu Utu Gwaitu Paiute Tribe',
                     'Shane Saulque (Chairman)',
                     'Tel: (760) 933-2321',
@@ -102,7 +102,7 @@ var markers = [
                 ]
     },
     {
-        coords: [39.511608, -121.556725],
+        coords: [39.5032863, -121.5027662],
         popupText: ['Berry Creek Rancheria of Maidu Indians of California',
                     'Francis Steele, Jr. (Chairman)',
                     'Tel: (530) 534-3859',
@@ -114,7 +114,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.0593, -124.1431],
+        coords: [41.059291, -124.1431246],
         popupText: ['Big Lagoon Rancheria',
                     'Virgil Moorehead (Chairman)',
                     'Tel: (707) 826-2079',
@@ -656,6 +656,87 @@ var markers = [
                     'PO Box 189',
                     'Warner Springs, CA92086-0189'
     ]
+    },
+    {
+        coords: [38.4404, -122.7141],
+        popupText: ['Lower Lake Rancheria',
+                    'Darin Beltran (Chairman)',
+                    'Tel: (707) 575-5586',
+                    'Fax: (707) 575-5506',
+                    'Recognition Status: Federal',
+                    'PO Box 3162',
+                    'Santa Rosa, CA95402-3162'
+    ]
+    },
+    {
+        coords: [38.4404, -122.7141],
+        popupText: ['Lytton Rancheria of California',
+                    'Marjorie Mejia (Tribal Chairperson)',
+                    'Tel: (707) 575-5917',
+                    'Fax: (707) 575-6974',
+                    'Recognition Status: Federal',
+                    '437 Aviation Boulevard',
+                    'Santa Rosa, CA95403'
+    ]
+
+    },
+    {
+        coords: [38.908798, --123.693072654],
+        popupText: ['Manchester Point Arena Band of Pomo Indians',
+                    'Jaime Cobarubba (Chairman)',
+                    'Tel: (707) 882-2788',
+                    'Fax: (707) 882-3417',
+                    'Recognition Status: Federal',
+                    'PO Box 623',
+                    'Point Arena, CA95468-0623'
+    ]
+    },
+    {
+        coords: [32.6636254 -116.2738148],
+        popupText: ['Manzanita Band of Kumeyaay Nation',
+                    'Angela Elliott Santos (Chairwoman)',
+                    'Tel: (619) 766-4930',
+                    'Fax: (619) 766-4957',
+                    'Recognition Status: Federal',
+                    'PO Box 1302',
+                    'Boulevard, CA91905-0402',
+    ]
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    { 
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    { 
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    {
+         coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
+    },
+    {
+        coords: [41.7558, -124.2026],
+        popupText: ['Lower Lake Rancheria']
     }
     // Add more markers here
 ];

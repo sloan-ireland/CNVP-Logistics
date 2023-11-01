@@ -313,7 +313,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.8055, -123.0172],
+        coords: [38.7958305, -123.0193963],
         popupText: ['Cloverdale Rancheria',
                     'Patricia Hermosillo (Chairperson)',
                     'Tel: (707) 894-5775',
@@ -324,7 +324,7 @@ var markers = [
     ]
     },
     {
-        coords: [37.0190, -1119.3992],
+        coords: [37.0190155, -119.3991908],
         popupText: ['Cold Springs Rancheria',
                     'Jeffery Lee (Chairman)',
                     'Tel: (559) 855-5043',
@@ -336,7 +336,7 @@ var markers = [
     ]
     },
     {
-        coords: [39.1546, -122.1494],
+        coords: [39.1274525, -122.3107517],
         popupText: ['Cortina Band of Wintun Indians',
                     'Charlie Wright (Tribal Chairman)',
                     'Tel: (530) 473-3274',
@@ -348,7 +348,7 @@ var markers = [
     ]
     },
     {
-        coords: [39.2652, -123.2041],
+        coords: [39.253231, -123.211116],
         popupText: ['Coyote Valley Band of Pomo Indians',
                     'Michael Hunter (Chairman)',
                     'Tel: (707) 485-8723',
@@ -359,7 +359,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.9413, -119.7496],
+        coords: [38.9046388,-119.7054904],
         popupText: ['Dresslerville Colony (Washoe Tribes of Nevada & California)',
                     'Rueben Vasquez(Chairman)',
                     'Tel: (775) 265-4191',
@@ -381,7 +381,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.9105, -122.6103],
+        coords: [38.9104546, -122.6102614],
         popupText: ['Elem Indian Colony',
                     'Augustin Garcia (Chairman)',
                     'Tel: (707) 998-3400',
@@ -392,7 +392,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.7558, -124.2026],
+        coords: [41.7585605, -124.1578832],
         popupText: ['Elk Valley Rancheria',
                     'Dale A. Miller (Chairman)',
                     'Tel: (707) 464-4680',
@@ -417,7 +417,7 @@ var markers = [
     ]
     },
     {
-        coords: [32.8351, -116.7664],
+        coords: [32.836279, -116.726317],
         popupText: ['Ewiiaapaayp Band of Kumeyaay Indians',
                     'Robert Pinto (Chairman)',
                     'Tel: (619) 445-6315',
@@ -429,7 +429,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.3396, -122.7011],
+        coords: [38.3476948, -122.7161054],
         popupText: ['Federated Indians of Graton Rancheria',
                     'Greg Sarris (Chairman)',
                     'Tel: (707) 566-2288',
@@ -441,7 +441,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.8605, -120.1521],
+        coords: [41.8605328, -120.15207],
         popupText: ['Fort Bidwell Paiute Indian Reservation',
                     'Bernold Pollard (Chairman)',
                     'Tel: (530) 279-6310',
@@ -453,7 +453,7 @@ var markers = [
     ]
     },
     {
-        coords: [36.8025, -118.1997],
+        coords: [36.8027102, -118.2000951],
         popupText: ['Fort Independence Indian Reservation',
                     'Norm Wilder (Chairman)',
                     'Tel: (760) 878-5160',
@@ -465,7 +465,7 @@ var markers = [
     ]
     },
     {
-        coords: [40.1396, -120.9511],
+        coords: [40.1396126, -120.9510675],
         popupText: ['Greenville Rancheria',
                     'Kyle Self (Chairman)',
                     'Tel: (530) 284-7990',
@@ -476,7 +476,7 @@ var markers = [
     ]
     },
     {
-        coords: [39.6051, -122.5398],
+        coords: [39.535761, -122.6729515],
         popupText: ['Grindstone Indian Rancheria',
                     'Ronald Kirk (Chairman)',
                     'Tel: (530) 968-5365',
@@ -488,7 +488,7 @@ var markers = [
     ]
     },
     {
-        coords: [39.1332, -123.1678],
+        coords: [39.1331805, -123.1663077],
         popupText: ['Guidiville Indian Rancheria',
                     'Merlene Sanchez (Acting Chairperson)',
                     'Tel: (707) 462-3682',
@@ -500,7 +500,7 @@ var markers = [
     ]
     },
     {
-        coords: [39.1646, -122.9106],
+        coords: [39.1646129, -122.9105515],
         popupText: ['Habematolel Pomo of Upper Lake',
                     'Sherry Treppa (Chairperson)',
                     'Tel: (707) 275-0737',
@@ -512,7 +512,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.0492, -123.6770],
+        coords: [41.0491723, 123.6770485],
         popupText: ['Hoopa Valley Tribe',
                     'Ryan p. Jackson (Chairman)',
                     'Tel: (530) 625-4211',
@@ -523,7 +523,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.9730, -123.1164],
+        coords: [38.9795822, -123.0579313],
         popupText: ['Hopland Band of Pomo Indians',
                     'Sonny J. Elliott, Sr. (Chairman)',
                     'Tel: (707) 472-2100',
@@ -534,7 +534,7 @@ var markers = [
     ]
     },
     {
-        coords: [33.1092 -116.6738],
+        coords: [33.170673, -116.72607],
         popupText: ['Iipay Nation of Santa Ysabel Band',
                     'Virgil Perez (Chairman)',
                     'Tel: (760) 765-0846',
@@ -545,7 +545,7 @@ var markers = [
     ]
     },
     {
-        coords: [33.1192, -117.0864],
+        coords: [33.0996671, -117.0707332],
         popupText: ['Inaja-Cosmit Band of Mission Indians',
                     'Rebecca Osuna (Chairwoman)',
                     'Tel: (760) 737-7628',
@@ -557,7 +557,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.4819, -120.8447],
+        coords: [38.4818531, -120.844659],
         popupText: ['Ione Band of Miwok Indians',
                     'Yvonne Miller (Chairperson)',
                     'Tel: (209) 245-5800',
@@ -580,7 +580,7 @@ var markers = [
     ]
     },
     {
-        coords: [32.7170 -116.8761],
+        coords: [32.7169988, -116.8761347],
         popupText: ['Jamul Indian Village',
                     'Erica Pinto (Chairwoman)',
                     'Tel: (619) 669-4785',
@@ -591,7 +591,7 @@ var markers = [
     ]
     },
     {
-        coords: [33.5019, -117.6628],
+        coords: [33.8294746, -117.9400687],
         popupText: ['Juaneno Band of Mission Indians',
                     'Teresa M. Romero (Chairwoman)',
                     'Tel: (949) 488-3484',
@@ -602,7 +602,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.7927, -123.3786],
+        coords: [41.792654, -123.3785705],
         popupText: ['Karuk Tribe of California',
                     'Russell Attebery (Chairman)',
                     'Tel: (530) 493-1600',
@@ -613,7 +613,7 @@ var markers = [
     ]
     },
     {
-        coords: [33.3034, -116.9814],
+        coords: [33.273574, -116.8522365],
         popupText: ['La Jolla Band of Luiseno Indians',
                     'La Vonne Peck (Chair)',
                     'Tel: (760) 742-3771',
@@ -624,7 +624,7 @@ var markers = [
     ]
     },
     {
-        coords: [32.6636, -116.2738],
+        coords: [32.7055315, -116.3610593],
         popupText: ['La Posta Band of Mission Indians',
                     'Gwendolyn Parada (Chairperson)',
                     'Tel: (619) 478-2113',
@@ -635,7 +635,7 @@ var markers = [
     ]
     },
     {
-        coords: [36.606045, -118.062866],
+        coords: [36.6060444, -118.0628654],
         popupText: ['Lone Pine Paiute Shoshone Reservation',
                     'Mary Weuster(Chairperson)',
                     'Tel: (760) 876-1034',
@@ -647,7 +647,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.7558, -124.2026],
+        coords: [33.2769753, -116.6494394],
         popupText: ['Los Coyotes Band of Cahuilla and Cupeno Indians',
                     'Shane Chapparosa (Chairperson)',
                     'Tel: (760) 782-0711',
@@ -658,7 +658,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.4404, -122.7141],
+        coords: [38.4399754, -122.710764],
         popupText: ['Lower Lake Rancheria',
                     'Darin Beltran (Chairman)',
                     'Tel: (707) 575-5586',
@@ -669,7 +669,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.4404, -122.7141],
+        coords: [38.5155226, -122.7873196],
         popupText: ['Lytton Rancheria of California',
                     'Marjorie Mejia (Tribal Chairperson)',
                     'Tel: (707) 575-5917',
@@ -681,7 +681,7 @@ var markers = [
 
     },
     {
-        coords: [38.908798, --123.693072654],
+        coords: [38.908798, -123.6930726],
         popupText: ['Manchester Point Arena Band of Pomo Indians',
                     'Jaime Cobarubba (Chairman)',
                     'Tel: (707) 882-2788',
@@ -692,7 +692,7 @@ var markers = [
     ]
     },
     {
-        coords: [32.6636254 -116.2738148],
+        coords: [32.6636254, -116.2738148],
         popupText: ['Manzanita Band of Kumeyaay Nation',
                     'Angela Elliott Santos (Chairwoman)',
                     'Tel: (619) 766-4930',

@@ -125,7 +125,7 @@ var markers = [
     ]
     },
     {
-        coords: [37.1649, -118.2895],
+        coords: [37.1649307, -118.289546],
         popupText: ['Big Pine Paiute Tribe of the Owens Valley',
                     'Shannon Romero (Tribal Chairperson)',
                     'Tel: (760) 938-2003',
@@ -147,7 +147,7 @@ var markers = [
     ]
     },
     {
-        coords: [39.0430, -122.9158],
+        coords: [39.0237426, -122.8877954],
         popupText: ['Big Valley Rancheria',
                     'Philip Gomez (Chairman)',
                     'Tel: (707) 263-3924',
@@ -158,7 +158,7 @@ var markers = [
     ]
     },
     {
-        coords: [37.3614, -1118.3952],
+        coords: [37.3617454, -118.4183193],
         popupText: ['Bishop Paiute Tribe',
                      'Brian Poncho (Interim Chairperson)',
                      'Tel: (760) 873-3584',
@@ -169,7 +169,7 @@ var markers = [
     ]
     },
     {
-        coords: [40.8829, -123.9839],
+        coords: [40.8829072, -123.9839488],
         popupText: ['Blue Lake Rancheria',
                     'Claudia Brundin (Chairperson)',
                     'Tel: (707) 668-5101',
@@ -180,7 +180,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.258308, -119.2314],
+        coords: [38.2557045, -119.2313932],
         popupText: ['Bridgeport Paiute Indian Colony',
                     'John Glazier (Chairman)',
                     'Tel: (760) 932-7083',
@@ -191,7 +191,7 @@ var markers = [
     ]
     },
     {
-        coords: [38.5816, -121.4944],
+        coords: [38.5715938, -121.4823938],
         popupText: ['Buena Vista Rancheria of Me-Wuk Indians',
                     'Rhonda Morningstar Pope (Chairperson)',
                     'Tel: (916) 491-0011',
@@ -202,7 +202,7 @@ var markers = [
     ]
     },
     {
-        coords: [33.7206, -116.2156],
+        coords: [33.7222052, -116.1951804],
         popupText: ['Cabazon Band of Mission Indians',
                     'Doug Welmas (Chairman)',
                     'Tel: (760) 342-2593',
@@ -213,7 +213,7 @@ var markers = [
     ]
     },
     {
-        coords: [39.2143, -122.0094],
+        coords: [39.2522314, -122.0315147],
         popupText: ['Cachil Dehe Band of Wintun Indians of the Colusa Indian Rancheria',
                     'Daniel Gomez(Chairman)',
                     'Tel: (530) 458-8231',
@@ -225,7 +225,7 @@ var markers = [
 
     },
     {
-        coords: [39.6882, -123.4828],
+        coords: [39.6882116, -123.4827942],
         popupText: ['Cahto Tribe of the Laytonville Rancheria',
                     'Richard J. Smith (Chairperson)',
                     'Tel: (707) 984-6197',
@@ -291,7 +291,7 @@ var markers = [
     ]
     },
     {
-        coords: [41.0593, -124.1431],
+        coords: [41.059291, -124.1431246],
         popupText: ['Cher-Ae Heights Indian Community of the Trinidad Rancheria',
                     'Garth Sundberg (Chairperson)',
                     'Tel: (707) 677-0211',
@@ -302,7 +302,7 @@ var markers = [
     ]
     },
     {
-        coords: [37.9533, -120.4227],
+        coords: [37.9532584, -120.4226952],
         popupText: ['Chicken Ranch Rancheria of Me-Wuk Indians of California',
                     'Lloyd Mathieson (Chairman)',
                     'Tel: (209) 984-4806',

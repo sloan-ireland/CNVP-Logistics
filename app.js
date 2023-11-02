@@ -686,7 +686,7 @@ markers.forEach(function(marker) {
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds
 
-marker.on('click', function(e){
+markers.on('click', function(e){
     mymap.setView(e.latlng, 13);
 });
 

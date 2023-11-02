@@ -858,17 +858,154 @@ var markers = [
     ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [41.6010261, -122.9750197],
+        popupText: ['Quartz Valley Reservation',
+                    'Harold Bennett (Chairman)',
+                    'Tel: (530) 468-5907',
+                    'Fax: (530) 468-5908',
+                    'Recognition Status: Federal',
+                    '13601 Quartz Valley Rd',
+                    'Fort Jones, CA96032-9714'
+    ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [33.5555, -116.6782],
+        popupText: ['Ramona Band of Cahuilla',
+                    'Joseph D. Hamilton (Chairman)',
+                    'Tel: (951)763-4105',
+                    'Fax: (951) 769-4325',
+                    'Recognition Status: Federal',
+                    '56310 Highway 371, Suite B',
+                    'Anza, CA92539'
+    ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [40.5069031, -122.3858174],
+        popupText: ['Redding Rancheria',
+                    'Jack Potter, Jr. (Chairman)',
+                    'Tel: (530) 225-8979',
+                    'Fax: (530) 242-4540',
+                    'Recognition Status: Federal',
+                    '2000 Redding Rancheria Road',
+                    'Redding, CA96001-5528'
+    ]
+    },
+    {
+        coords: [39.287016, -123.184024],
+        popupText: ['Redwood Valley Little River Band of Pomo Indians',
+                    'Debra Ramirez (Chairperson)',
+                    'Tel: (707) 485-0361',
+                    'Fax: (707) 485-5726',
+                    'Recognition Status: Federal',
+                    '3250 Road I',
+                    'Redwood Valley, CA95470-9526'
+    ]
+    },
+    {
+        coords: [41.5265092, -124.0384069],
+        popupText: ['Resighini Rancheria',
+                    'Rick Dowd (Chairman)',
+                    'Tel: (707) 482-2431',
+                    'Fax: (707) 482-3425',
+                    'Recognition Status: Federal',
+                    'PO Box 529',
+                    'Klamath, CA95548-0529'
+    ]
+    },
+    {
+        coords: [33.2738725, -116.957577],
+        popupText: ['Rincon Band of Mission Indians',
+                    'Frederick "Bo" Mazzetti (Chairman)',
+                    'Tel: (760) 749-1051',
+                    'Fax: (760) 749-8901',
+                    'Recognition Status: Federal',
+                    '1 West Tribal Road',
+                    'Valley Center, CA92082-0068'
+    ]
+    },
+    {
+        coords: [39.1112521, -122.8253741],
+        popupText: ['Robinson Rancheria',
+                    'Beniaken Cromwell (Chairman)',
+                    'Tel: (707) 275-0527',
+                    'Fax: (707) 275-0325',
+                    'Recognition Status: Federal',
+                    'PO Box 4015',
+                    'Nice, CA95464-4015'
+    ]
+    },
+    {
+        coords: [39.8143599, -123.248213],
+        popupText: ['Round Valley Reservation',
+                    'James Russ (President)',
+                    'Tel: (707) 983-6126',
+                    'Fax: (707) 983-6128',
+                    'Recognition Status: Federal',
+                    '77826 Covelo Road',
+                    'Covelo, CA95428-0448'
+    ]
+    },
+    {
+        coords: [34.1506988, -117.214223],
+        popupText: ['San Manuel Band of Mission Indians',
+                    'Lynn Valbuena (Chairwoman)',
+                    'Tel: (909) 864-8933',
+                    'Fax: (909) 864-3370',
+                    'Recognition Status: Federal',
+                    '26569 Community Center Drive',
+                    'Highland, CA92346',
+    ]
+    },
+    {
+        coords: [33.2183701, --117.0341967],
+        popupText: ['San Pasqual Band of Diegueno Indians',
+                    'Allen Lawson (Tribal Chairman)',
+                    'Allen Lawson (Tribal Chairman)',
+                    'Tel: (760) 749-3200',
+                    'Fax: (760) 749-3876',
+                    'Recognition Status: Federal',
+                    'PO Box 365',
+                    'Valley Center, CA92082-0365'
+
+                    
+    ]
+    },
+    {
+        coords: [33.5257713, -116.6317514],
+        popupText: ['Santa Rosa Band of Cahuilla Indians',
+                    'Steven Estrada (Chairman)',
+                    'Tel: (951) 659-2700',
+                    'Fax: (951) 659-2228',
+                    'Recognition Status: Federal',
+                    'PO Box 391820',
+                    'Anza, CA92539'
+    ]
+    },
+    {
+        coords: [36.3007835, -119.7829107],
+        popupText: ['Santa Rosa Rancheria Tachi Yokut Tribe',
+                    'Ruben Barrios (Chairman)',
+                    'Tel: (559) 924-1278',
+                    'Fax: (559) 924-2931',
+                    'Recognition Status: Federal',
+                    'PO Box 8',
+                    'Lemoore, CA93245-0008'
+    ]
+    },
+    {
+        coords: [34.6144313, -120.079868],
+        popupText: ['Santa Ynez Band Of Chumash Tribe',
+                    'Vincent Armenta (Chairman)',
+                    'Tel: (805) 688-7997',
+                    'Fax: (805) 686-9578',
+                    'Recognition Status: Federal',
+                    'PO Box 517',
+                    'Santa Ynez, CA93460-0517'
+    
+    ]
     }
+    
+
     // Add more markers here
 ];
 

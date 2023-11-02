@@ -660,15 +660,18 @@ var markers = [
     // Add more markers here
 ];
 
-markers.forEach(function(marker) {
-    var newMarker = L.marker(marker.coords).addTo(mymap);
+markers.forEach(function(markerInfo) {
+    var newMarker = L.marker(markerInfo.coords).addTo(mymap);
 
-    if (marker.popupText) {
-        // Join the lines of text from the array with line breaks
-        var popupContent = marker.popupText.join('<br>');
-
+    if (markerInfo.popupText) {
+        var popupContent = markerInfo.popupText.join('<br>');
         newMarker.bindPopup(popupContent);
     }
+
+    // Add click event to each marker to zoom in when clicked
+    newMarker.on('click', function(e) {
+        mymap.setView(e.latlng, 13); // Zoom in to level 13, adjust as needed
+    });
 });
 /*markers.forEach(function(marker) {
     var newMarker = L.marker(marker.coords).addTo(mymap);
@@ -685,6 +688,8 @@ markers.forEach(function(marker) {
 
 var maxZoomToSeeBorders = mymap.getBoundsZoom(californiaBounds);
 mymap.setMinZoom(maxZoomToSeeBorders); // Prevents the user from zooming farther out than the bounds
+
+
 /*
 var tribalLocations = [
     { name: "Agua Caliente Band of Cahuilla Indians", lat: 33.809212, lon: -116.525694 },

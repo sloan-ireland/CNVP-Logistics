@@ -703,28 +703,159 @@ var markers = [
     ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [39.7530638, -121.8606691],
+        popupText: ['Mechoopda Indian Tribe of Chico Rancheria',
+                    'Dennis Ramirez (Chairman)',
+                    'Tel: (530) 899-8922',
+                    'Fax: (530) 899-8517',
+                    'Recognition Status: Federal',
+                    '125 Mission Ranch Boulevard',
+                    'Chico, CA95926-2175'
+    ]
     },
     { 
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [33.1091684, -116.673794],
+        popupText: ['Mesa Grande Band of Mission Indians',
+                    'Virgil Oyos (Chairman)',
+                    'Tel: (760) 782-3818',
+                    'Fax: (760) 782-0795',
+                    'Recognition Status: Federal',
+                    'PO Box 270',
+                    'Santa Ysabel, CA92070-0270'
+    ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [38.7524045, -122.6149853],
+        popupText: ['Middletown Rancheria',
+                    'Jose Simon, III (Chairman)',
+                    'Tel: (707) 987-3670',
+                    'Fax: (707) 987-9091',
+                    'Recognition Status: Federal',
+                    'PO Box 1035',
+                    'Middletown, CA95461-1035'
+
+    ]
     },
     { 
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [39.4662682, -121.521937],
+        popupText: ['Mooretown Rancheria',
+                    'Benjamin Clark (Chairman)',
+                    'Tel: (530) 533-3625',
+                    'Fax: (530) 533-3680',
+                    'Recognition Status: Federal',
+                    '1 Alverda Drive',
+                    'Oroville, CA95966-9379'
+    ]
     },
     {
-        coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+        coords: [33.9398629 -116.8102138],
+        popupText: ['Morongo Band of Mission Indians',
+                    'Robert Martin (Chairman)',
+                    'Tel: (951) 755-5110',
+                    'Fax: (951) 755-5109',
+                    'Recognition Status: Federal',
+                    '12700 Pumarra Rd',
+                    'Banning, CA92220-6977'
+    ]
     },
     {
-         coords: [41.7558, -124.2026],
-        popupText: ['Lower Lake Rancheria']
+         coords: [37.2293765, -119.5093812],
+        popupText: ['North Fork Rancheria',
+                    'Gary Walker (Chairperson)',
+                    'Tel: (559) 877-2461',
+                    'Fax: (559) 877-2467',
+                    'Recognition Status: Federal',
+                    'PO Box 929',
+                    'North Fork, CA93643-0929'
+    ]
+    },
+    {
+        coords: [33.3652166, -117.0764739],
+        popupText: ['Pala Band of Mission Indians',
+                    'Robert Smith (Chairman)',
+                    'Tel: (760) 891-3500',
+                    'Fax: (760) 891-3584',
+                    'Recognition Status: Federal',
+                    '35008 Pala Temecula Rd',
+                    'Pala, CA92059-2419'     
+    ]
+    },
+    {
+        coords: [39.9276572, -122.1791556],
+        popupText: ['Paskenta Band of Nomlaki Indians',
+                    'Andrew "Dru" Alejandre (Chairman)',
+                    'Tel: (530) 865-2010',
+                    'Fax: (530) 528-3553',
+                    'Recognition Status: Federal',
+                    'PO Box 709',
+                    'Corning, CA96021'
+    ]
+    },
+    {
+        coords: [39.9276572, -122.1791556],
+        popupText: ['Pauma/Yuima Band of Mission Indians',
+                    'Temet A. Aguilar (Chairman)',
+                    'Tel: (760) 742-1289',
+                    'Fax: (760) 742-3422',
+                    'Recognition Status: Federal',
+                    'PO Box 369',
+                    'Pauma Valley, CA92061-0369'
+    ]
+    },
+    {
+        coords: [33.44841, -117.08867],
+        popupText: ['Pechanga Band of Mission Indians',
+                    'Mark Macarro (Chairman)',
+                    'Tel: (951) 770-6200',
+                    'Fax: (951) 695-1778',
+                    'Recognition Status: Federal',
+                    'PO Box 1477',
+                    'Temecula, CA92593-1477'
+    ]
+    },
+    {
+        coords: [36.8533631, -119.8051492],
+        popupText: ['Picayune Rancheria of Chukchansi Indians',
+                    'Jennifer Ruiz (Chairwoman)',
+                    'Tel: (559) 412-5590',
+                    'Fax: (559) 666-3321',
+                    'Recognition Status: Federal',
+                    'PO Box 2226',
+                    'Oakhurst, CA93644'
+    ]
+    },
+    {
+        coords: [39.1796399, -123.2196454],
+        popupText: ['Pinoleville Pomo Nation',
+                    'Leona Williams (Chairperson)',
+                    'Tel: (707) 463-1454',
+                    'Fax: (707) 463-6601',
+                    'Recognition Status: Federal',
+                    '500 Pinoleville Rd Ste B',
+                    'Ukiah, CA95482-7121'
+    ]
+    },
+    {
+        coords: [40.8761232, -121.6711219],
+        popupText: ['Pit River Tribe',
+                    'Mickey Gemill (Chairman)',
+                    'Tel: (530) 335-5421',
+                    'Fax: (530) 335-3140',
+                    'Recognition Status: Federal',
+                    '3670 Park Avenue',
+                    'Burney, CA96013-4128'
+    ]
+    },
+    {
+        coords: [39.3221089, -123.113059],
+        popupText: ['Potter Valley Rancheria',
+                    'Salvador Rosales (Chairman)',
+                    'Tel: (707) 462-1213',
+                    'Fax: (707) 462-1240',
+                    'Recognition Status: Federal',
+                    '2251 South State Street',
+                    'Ukiah, CA95482-6723'
+    ]
     },
     {
         coords: [41.7558, -124.2026],

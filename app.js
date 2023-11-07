@@ -5,7 +5,7 @@ var californiaBounds = [
 
 
 // Initialize the map with maxBounds
-var mymap = L.map('mymap', {
+var mymap = L.map('mapid', {
     maxBounds: californiaBounds,
     maxBoundsViscosity: 1.0, // Keeps the user within the bounds
     maxZoom: 10, // Set the maximum zoom level

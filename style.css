@@ -13,7 +13,7 @@ body, html {
 }
 
 /* Style the map with a border */
-#mapid {
+#mymap {
     width: calc(100% - 1in); 
     height: calc(100% - 1in); 
     border: 0.5in solid rgb(234, 53, 12); 

@@ -999,7 +999,251 @@ var markers = [
                     'Santa Ynez, CA93460-0517'
     
     ]
-    }
+    },
+    {
+        coords: [39.0347666, -122.9263504],
+        popupText: ['Scotts Valley Band of Pomo Indians',
+                    'Shawn Davis (Chairman)',
+                    'Tel: (707) 263-4220',
+                    'Fax: (707) 263-4345',
+                    'Recognition Status: Federal',
+                    '1005 Parallel Dr.',
+                    'Lakeport, CA95453'
+    ]
+    },
+    {
+        coords: [39.3947823, -123.3607902],
+        popupText: ['Sherwood Valley Rancheria',
+                    'Melanie Rafanan (Chairwoman)',
+                    'Tel: (707) 459-9690',
+                    'Fax: (707) 459-6936',
+                    'Recognition Status: Federal',
+                    '190 Sherwood Hill Dr',
+                    'Willits, CA95490-4666'
+    ]
+    },
+    {
+        coords: [38.687249 -120.9892566],
+        popupText: ['Shingle Springs Rancheria',
+                    'Regina Cuellar (Chairwoman)',
+                    'Tel: (530) 387-4994',
+                    'Fax: (530) 676-6288',
+                    'Recognition Status: Federal',
+                    'PO Box 1340',
+                    'Shingle Springs, CA95682-1340'
+    ]
+    },
+    {
+        coords: [41.952201, -124.202587],
+        popupText: ['Smith River Rancheria',
+                    'Scott D. Sullivan (Chairperson)',
+                    'Tel: (707) 487-9255',
+                    'Fax: (707) 487-0930',
+                    'Recognition Status: Federal',
+                    '140 Rowdy Creek Rd',
+                    'Smith River, CA95567-9446'
+    ]
+    },
+    {
+        coords: [33.7729474, -116.9618653],
+        popupText: ['Soboba Band of Luiseno Indians',
+                    'Isaiah Vivanco (Chairman)',
+                    'Tel: (951) 654-2765',
+                    'Fax: (951) 654-4198',
+                    'Recognition Status: Federal',
+                    'PO Box 487',
+                    'San Jacinto, CA92581-0487'
+    ]
+    },
+    {
+        coords: [38.9046388, -119.7054904],
+        popupText: ['Stewart Community Council (Washoe Tribe of Nevada & California)',
+                    'Blain Osorio (Chairman)',
+                    'Tel: (775) 883-7794',
+                    'Fax: (775) 265-6240',
+                    'Recognition Status: Federal',
+                    '919 Highway 395 South',
+                    'Gardnerville, NV89410'
+    ]
+    },
+    {
+        coords: [38.457324, -122.7344912],
+        popupText: ['Stewarts Point Rancheria',
+                    'Reno Franklin (Chairman)',
+                    'Tel: (707) 591-0580',
+                    'Fax: (707) 591-0583',
+                    'Recognition Status: Federal',
+                    '1420 Guerneville Rd Suite 1',
+                    'Santa Rosa, CA95403-2039'
+    ]
+    },
+    {
+        coords: [40.426133, -120.6571637],
+        popupText: ['Susanville Indian Rancheria',
+                    'Arian Hart (Chairman)',
+                    'Tel: (530) 257-6264',
+                    'Fax: (530) 257-7986',
+                    'Recognition Status: Federal',
+                    '745 Joaquin St',
+                    'Susanville, CA96130-3628'
+    ]
+    },
+    {
+        coords: [32.7947731, -116.9625269],
+        popupText: ['Sycuan Band of the Kumeyaay Nation',
+                    'Cody Martinez (Chairman)',
+                    'Tel: (619) 445-2613',
+                    'Fax: (619) 445-3016',
+                    'Recognition Status: Federal',
+                    '1 Kwaaypaay Court',
+                    'El Cajon, CA92019-1821'
+    ]
+    },
+    {
+        coords: [36.9877274, -119.7118118],
+        popupText: ['Table Mountain Rancheria',
+                    'Leanne Walker-Grant (Chairperson)',
+                    'Tel: (559) 822-2587',
+                    'Fax: (559) 822-2693',
+                    'Recognition Status: Federal',
+                    'PO Box 410',
+                    'Friant, CA93626-0410'
+    ]
+    },
+    {
+        coords: [35.092307660856015, -118.91575547970623],
+        popupText: ['Tejon Indian Tribe',
+                    'Octavio Escabedo (Chairperson)',
+                    'Tel: (661) 834-8566',
+                    'Fax: (661) 834-8564',
+                    'Recognition Status: Federal',
+                    '1731 Hasti Acres Drive, Suite 108',
+                    'Bakersfield, CA93309'
+    ]
+    },
+    {
+        coords: [37.36, -118.39],
+        popupText: ['Timbisha Shoshone Tribe',
+                    'George Gholson (Chairman)',
+                    'Tel: (760) 872-3614',
+                    'Fax: (760) 872-3670',
+                    'Recognition Status: Federal',
+                    'PO Box 1779',
+                    'Bishop, CA93515-1779'
+    ]
+    },
+    {
+        coords: [33.6402638, -116.1422353],
+        popupText: ['Torres-Martinez Desert Cahuilla Indians',
+                    'Thomas Tortez, Jr. (Chairman)',
+                    'Tel: (760) 397-0300',
+                    'Fax: (760) 397-3925',
+                    'Recognition Status: Federal',
+                    'PO Box 1160',
+                    'Thermal, CA92274-1160'
+    ]
+    },
+    {
+        coords: [36.07, -119.02],
+        popupText: ['Tule River Indian Reservation',
+                    'Neil Peyron (Chairman)',
+                    'Tel: (559) 781-4271',
+                    'Fax: (559) 791-2121',
+                    'Recognition Status: Federal',
+                    'PO Box 589',
+                    'Porterville, CA93258-0589'
+    ]
+    },
+    {
+        coords: [37.9627027, -120.2412999],
+        popupText: ['Tuolumne Me-Wuk Tribe',
+                    'Kevin Day (Chairman)',
+                    'Tel: (209) 928-5300',
+                    'Fax: (209) 928-1677',
+                    'Recognition Status: Federal',
+                    'PO Box 699',
+                    'Tuolumne, CA95379-0699'
+    ]
+    },
+    {
+        coords: [33.7106659, -116.1835261],
+        popupText: ['Twenty-Nine Palms Band of Mission Indians',
+                    'Darrell Mike (Chairman)',
+                    'Tel: (760) 863-2444',
+                    'Fax: (760) 863-2449',
+                    'Recognition Status: Federal',
+                    '46200 Harrison Place',
+                    'Coachella, CA92236-2031'
+    ]
+    },
+    {
+        coords: [38.871886, -121.091924],
+        popupText: ['United Auburn Indian Community',
+                    'Gene Whitehouse (Chairman)',
+                    'Tel: (530) 883-2390',
+                    'Fax: (530) 883-2380',
+                    'Recognition Status: Federal',
+                    '10720 Indian Hill Rd',
+                    'Auburn, CA95603-9403'
+    ]
+    },
+    {
+        coords: [32.8502, -116.6926],
+        popupText: ['Viejas Band of Kumeyaay Indians',
+                    'Robert J. Welch, Jr. (Chairman)',
+                    'Tel: (619) 445-3810',
+                    'Fax: (619) 445-5337',
+                    'Recognition Status: Federal',
+                    '1 Viejas Grade Road',
+                    'Alpine, CA91901-1605'
+    ]
+    },
+    {
+        coords: [38.4039442, -121.3597885],
+        popupText: ['Wilton Rancheria',
+                    'Jesus Tarango, Jr. (Chairman)',
+                    'Tel: (916) 683-6000',
+                    'Fax: (916) 683-6015',
+                    'Recognition Status: Federal',
+                    '9300 Wesf Stockton Boulevard, Suite 200',
+                    'Elk Grove, CA95758'
+    ]
+    },
+    {
+        coords: [40.6885076, -124.2529779],
+        popupText: ['Wiyot Tribe',
+                    'Theodore Hernandez (Chairman)',
+                    'Tel: (707) 733-5055',
+                    'Fax: (707) 733-5601',
+                    'Recognition Status: Federal',
+                    '1000 Wiyot Dr',
+                    'Loleta, CA95551-9640'
+    ]
+    },
+    {
+        coords: [38.7684692, -122.1973081],
+        popupText: ['Yocha Dene Wintun Nation',
+                    'Leland Kinter (Chairman)',
+                    'Tel: (530) 796-3400',
+                    'Fax: (530) 796-2143',
+                    'Recognition Status: Federal',
+                    'PO Box 18',
+                    'Brooks, CA95606-0018'
+    ]
+    },
+    {
+        coords: [41.5265092, -124.0384069],
+        popupText: ['Yurok Tribe',
+                    "Thomas O'Rourke (Chairman)",
+                    'Tel: (707) 482-1350',
+                    'Fax: (707) 482-1373',
+                    'Fax: (707) 482-1373',
+                    'Recognition Status: Federal',
+                    'PO Box 1027',
+                    'Klamath, CA95548-1027'
+
+    ]
+    },
     
 
     // Add more markers here

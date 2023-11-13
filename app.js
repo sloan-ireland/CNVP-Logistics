@@ -110,8 +110,7 @@ var markers = [
                     'Recognition Status: Federal',
                     '5 Tyme Way',
                     'Oroville, CA95966-9115'
-
-    ]
+                ]
     },
     {
         coords: [41.059291, -124.1431246],
@@ -132,8 +131,7 @@ var markers = [
                     'Fax: (760) 938-2942',
                     'Recognition Status: Federal',
                     'PO Box 700',
-                    'Big Pine, CA93513-0700'
-    ]
+                    'Big Pine, CA93513-0700']
     },
     {
         coords: [37.0808, -119.4854],
@@ -143,8 +141,7 @@ var markers = [
                     'Fax: (559) 855-4129',
                     'Recognition Status: Federal',
                     'PO Box 337',
-                    'Auberry, CA93602-0337'
-    ]
+                    'Auberry, CA93602-0337']
     },
     {
         coords: [39.0237426, -122.8877954],
@@ -154,8 +151,7 @@ var markers = [
                     'Fax: (707) 533-2941',
                     'Recognition Status: Federal',
                     '2726 Mission Rancheria Rd',
-                    'Lakeport, CA95453-9612'
-    ]
+                    'Lakeport, CA95453-9612']
     },
     {
         coords: [37.3617454, -118.4183193],
@@ -165,8 +161,7 @@ var markers = [
                      'Fax: (760) 873-4143',
                      'Recognition Status: Federal',
                      '50 N Tu Su Ln',
-                     'Bishop, CA93514-8058'
-    ]
+                     'Bishop, CA93514-8058']
     },
     {
         coords: [40.8829072, -123.9839488],
@@ -176,8 +171,7 @@ var markers = [
                     'Fax: (707) 668-4272',
                     'Recognition Status: Federal',
                     'PO Box 428',
-                    'Blue Lake, CA95525-0314'
-    ]
+                    'Blue Lake, CA95525-0314']
     },
     {
         coords: [38.2557045, -119.2313932],
@@ -187,8 +181,7 @@ var markers = [
                     'Fax: (760) 932-7846',
                     'Recognition Status: Federal',
                     'PO Box 37',
-                    'Bridgeport, CA93517-0037'
-    ]
+                    'Bridgeport, CA93517-0037']
     },
     {
         coords: [38.5715938, -121.4823938],
@@ -198,8 +191,7 @@ var markers = [
                     'Fax: (916) 491-0012',
                     'Recognition Status: Federal',
                     '1418 20th Street, Suite 200',
-                    'Sacramento, CA95811-5206',
-    ]
+                    'Sacramento, CA95811-5206']
     },
     {
         coords: [33.7222052, -116.1951804],
@@ -209,8 +201,7 @@ var markers = [
                     'Fax: (760) 347-7880',
                     'Recognition Status: Federal',
                     '84-245 Indio Springs Parkway',
-                    'Indio, CA92203-'
-    ]
+                    'Indio, CA92203-']
     },
     {
         coords: [39.2522314, -122.0315147],
@@ -232,8 +223,7 @@ var markers = [
                     'Fax: (707) 984-6201',
                     'Recognition Status: Federal',
                     'PO Box 1239',
-                    'Laytonville, CA95454-1239'
-    ]
+                    'Laytonville, CA95454-1239']
     },
     {
         coords: [33.5553, -116.6742],
@@ -243,8 +233,7 @@ var markers = [
                     'Fax: (951) 763-2808',
                     'Recognition Status: Federal',
                     'PO Box 391760',
-                    'Anza, CA92539-1760'
-    ]
+                    'Anza, CA92539-1760']
     },
     {
         coords: [37.6635, -120.4635],
@@ -254,8 +243,7 @@ var markers = [
                     'Fax: (209) 931-4333',
                     'Recognition Status: Federal',
                     '14807 Avenida Central',
-                    'LaGrange, CA95329-9400'
-    ]
+                    'LaGrange, CA95329-9400']
     },
     {
         coords: [32.6076, -116.4697],
@@ -265,8 +253,7 @@ var markers = [
                     'Fax: (619) 478-5818',
                     'Recognition Status: Federal',
                     '36190 Church Rd Ste 1',
-                    'Campo, CA91906-2732'
-    ]
+                    'Campo, CA91906-2732']
     },
     {
         coords: [33.8317, -118.2817],
@@ -276,8 +263,7 @@ var markers = [
                     'Fax: (775) 265-6240',
                     'Recognition Status: Federal',
                     '2900 South Curry Street',
-                    'Carson City, NV89703'
-    ]
+                    'Carson City, NV89703']
     },
     {
         coords: [39.6882, -123.4828],
@@ -287,8 +273,7 @@ var markers = [
                     'Fax: (530) 233-4776',
                     'Recognition Status: Federal',
                     '300 W 1st St',
-                    'Alturas, CA96101-3905'
-    ]
+                    'Alturas, CA96101-3905']
     },
     {
         coords: [41.059291, -124.1431246],
@@ -298,8 +283,7 @@ var markers = [
                     'Fax: (707) 677-3921',
                     'Recognition Status: Federal',
                     'PO Box 630',
-                    'Trinidad, CA95570-0630'
-    ]
+                    'Trinidad, CA95570-0630']
     },
     {
         coords: [37.9532584, -120.4226952],
@@ -309,8 +293,7 @@ var markers = [
                     'Fax: (209) 984-5606',
                     'Recognition Status: Federal',
                     'PO Box 1159',
-                    'Jamestown, CA95327-1159'
-    ]
+                    'Jamestown, CA95327-1159']
     },
     {
         coords: [38.7958305, -123.0193963],
@@ -320,8 +303,7 @@ var markers = [
                     'Fax: (707) 894-5727',
                     'Recognition Status: Federal',
                     '555 S Cloverdale Blvd Ste A',
-                    'Cloverdale, CA95425-4020'
-    ]
+                    'Cloverdale, CA95425-4020']
     },
     {
         coords: [37.0190155, -119.3991908],
@@ -331,9 +313,7 @@ var markers = [
                     'Fax: (559) 855-4445',
                     'Fax: (559) 855-4445',
                     'PO Box 209',
-                    'Tollhouse, CA93667-0209'
-
-    ]
+                    'Tollhouse, CA93667-0209']
     },
     {
         coords: [39.1274525, -122.3107517],
@@ -343,9 +323,7 @@ var markers = [
                     'Fax: (530) 473-3301',
                     'Recognition Status: Federal',
                     'PO Box 1630',
-                    'Williams, CA95987-1630',
-                    
-    ]
+                    'Williams, CA95987-1630']
     },
     {
         coords: [39.253231, -123.211116],
@@ -355,8 +333,7 @@ var markers = [
                     'Fax: (707) 485-1247',
                     'Recognition Status: Federal',
                     'PO Box 39',
-                    'Redwood Valley, CA95470-0039'
-    ]
+                    'Redwood Valley, CA95470-0039']
     },
     {
         coords: [38.9046388,-119.7054904],
@@ -366,8 +343,7 @@ var markers = [
                     'Fax: (775) 265-6240',
                     'Recognition Status: Federal',
                     '919 Highwway 395 South',
-                    'Gardnerville, NV89410'
-    ]
+                    'Gardnerville, NV89410']
     },
     {
         coords: [38.7075, -122.9028],
@@ -377,8 +353,7 @@ var markers = [
                     'Fax: (707) 857-3794',
                     'Recognition Status: Federal',
                     'PO Box 607',
-                    'Geyserville, CA95441-0607'
-    ]
+                    'Geyserville, CA95441-0607']
     },
     {
         coords: [38.9104546, -122.6102614],
@@ -399,10 +374,7 @@ var markers = [
                     'Fax: (707) 464-4519',
                     'Recognition Status: Federal',
                     '2332 Howland Hill Road',
-                    'Crescent City, CA95531-9238'
-                    
-
-    ]
+                    'Crescent City, CA95531-9238']
     },
     {
         coords: [39.5138, -121.5564],
@@ -412,9 +384,7 @@ var markers = [
                     'Fax: (530) 532-1768',
                     'Recognition Status: Federal',
                     '2133 Monte Vista Ave',
-                    'Oroville, CA95966-6968'
-    
-    ]
+                    'Oroville, CA95966-6968']
     },
     {
         coords: [32.836279, -116.726317],
@@ -424,9 +394,7 @@ var markers = [
                     'Fax: (619) 445-9126',
                     'Recognition Status: Federal',
                     '4054 Willows Road',
-                    'Alpine, CA91901-1620'
-    
-    ]
+                    'Alpine, CA91901-1620']
     },
     {
         coords: [38.3476948, -122.7161054],
@@ -436,9 +404,7 @@ var markers = [
                     'Fax: (707) 566-2291',
                     'Recognition Status: Federal',
                     '6400 Redwood Drive, Suite 300',
-                    'Rohnert Park, CA94928-2341'
-    
-    ]
+                    'Rohnert Park, CA94928-2341']
     },
     {
         coords: [41.8605328, -120.15207],
@@ -448,9 +414,7 @@ var markers = [
                     'Fax: (530) 279-2233',
                     'Recognition Status: Federal',
                     'PO Box 129',
-                    'Fort Bidwell, CA96112-0129'
-    
-    ]
+                    'Fort Bidwell, CA96112-0129']
     },
     {
         coords: [36.8027102, -118.2000951],
@@ -460,9 +424,7 @@ var markers = [
                     'Fax: (760) 878-2311',
                     'Recognition Status: Federal',
                     'PO Box 67',
-                    'Independence, CA93526-0067'
-    
-    ]
+                    'Independence, CA93526-0067']
     },
     {
         coords: [40.1396126, -120.9510675],
@@ -472,8 +434,7 @@ var markers = [
                     'Fax: (530) 284-6612',
                     'Recognition Status: Federal',
                     'PO Box 279',
-                    'Greenville, CA95947-0279'
-    ]
+                    'Greenville, CA95947-0279']
     },
     {
         coords: [39.535761, -122.6729515],
@@ -483,9 +444,7 @@ var markers = [
                     'Fax: (530) 968-5366',
                     'Recognition Status: Federal',
                     'PO Box 63',
-                    'Elk Creek, CA95939-0063',
-
-    ]
+                    'Elk Creek, CA95939-0063']
     },
     {
         coords: [39.1331805, -123.1663077],
@@ -495,9 +454,7 @@ var markers = [
                     'Fax: (707) 462-9183',
                     'Recognition Status: Federal',
                     'PO Box 339',
-                    'Talmage, CA95481-0339'
-
-    ]
+                    'Talmage, CA95481-0339']
     },
     {
         coords: [39.1646129, -122.9105515],
@@ -507,9 +464,7 @@ var markers = [
                     'Fax: (707) 275-0757',
                     'Recognition Status: Federal',
                     'PO Box 516',
-                    'Upper Lake, CA95485-0516'
-
-    ]
+                    'Upper Lake, CA95485-0516']
     },
     {
         coords: [41.0491723, 123.6770485],
@@ -519,8 +474,7 @@ var markers = [
                     'Fax: (530) 625-4594',
                     'Recognition Status: Federal',
                     'PO Box 1348',
-                    'Hoopa, CA95546-1348'
-    ]
+                    'Hoopa, CA95546-1348']
     },
     {
         coords: [38.9795822, -123.0579313],
@@ -541,8 +495,7 @@ var markers = [
                     'Fax: (760) 765-2545',
                     'Recognition Status: Federal',
                     'PO Box 130',
-                    'Santa Ysabel, CA92070-0130'
-    ]
+                    'Santa Ysabel, CA92070-0130']
     },
     {
         coords: [33.0996671, -117.0707332],
@@ -552,9 +505,7 @@ var markers = [
                     'Fax: (760) 747-8568',
                     'Recognition Status: Federal',
                     '2005 S Escondido Boulevard',
-                    'Escondido, CA92025-8207'
-
-    ]
+                    'Escondido, CA92025-8207']
     },
     {
         coords: [38.4818531, -120.844659],
@@ -564,9 +515,7 @@ var markers = [
                     'Fax: (209) 245-3112',
                     'Recognition Status: Federal',
                     'PO Box 699',
-                    'Plymouth, CA95669-0699'
-
-    ]
+                    'Plymouth, CA95669-0699']
     },
     {
         coords: [38.3488, -120.7741],
@@ -576,8 +525,7 @@ var markers = [
                     'Fax: (209) 223-5366',
                     'Recognition Status: Federal',
                     'PO Box 1090',
-                    'Jackson, CA95642-1090'
-    ]
+                    'Jackson, CA95642-1090']
     },
     {
         coords: [32.7169988, -116.8761347],
@@ -587,8 +535,7 @@ var markers = [
                     'Fax: (619) 669-4817',
                     'Recognition Status: Federal',
                     'PO Box 612',
-                    'Jamul, CA91935-0612'
-    ]
+                    'Jamul, CA91935-0612']
     },
     {
         coords: [33.8294746, -117.9400687],
@@ -598,8 +545,7 @@ var markers = [
                     'Fax: (949) 488-3294',
                     'Recognition Status: State',
                     '31411 La Matanza St Ste A',
-                    'San Juan Capistrano, CA92675-2674'
-    ]
+                    'San Juan Capistrano, CA92675-2674']
     },
     {
         coords: [41.792654, -123.3785705],
@@ -609,8 +555,7 @@ var markers = [
                     'Fax: (530) 493-5322',
                     'Recognition Status: Federal',
                     'PO Box 1016',
-                    'Happy Camp, CA96039-1016'
-    ]
+                    'Happy Camp, CA96039-1016']
     },
     {
         coords: [33.273574, -116.8522365],
@@ -620,8 +565,7 @@ var markers = [
                     'Fax: (760) 742-1704',
                     'Recognition Status: Federal',
                     '22003 Highway 76',
-                    'Pauma Valley, CA92061-9721'
-    ]
+                    'Pauma Valley, CA92061-9721']
     },
     {
         coords: [32.7055315, -116.3610593],
@@ -631,8 +575,7 @@ var markers = [
                     'Fax: (619) 478-2125',
                     'Recognition Status: Federal',
                     '8 Crestwood Rd',
-                    'Boulevard, CA91905-0220'
-    ]
+                    'Boulevard, CA91905-0220']
     },
     {
         coords: [36.6060444, -118.0628654],
@@ -642,9 +585,7 @@ var markers = [
                     'Fax: (760) 876-8302',
                     'Recognition Status: Federal',
                     'PO Box 747',
-                    'Lone Pine, CA93545-0747'
-
-    ]
+                    'Lone Pine, CA93545-0747']
     },
     {
         coords: [33.2769753, -116.6494394],
@@ -654,8 +595,7 @@ var markers = [
                     'Fax: (760) 782-2701',
                     'Recognition Status: Federal',
                     'PO Box 189',
-                    'Warner Springs, CA92086-0189'
-    ]
+                    'Warner Springs, CA92086-0189']
     },
     {
         coords: [38.4399754, -122.710764],
@@ -665,8 +605,7 @@ var markers = [
                     'Fax: (707) 575-5506',
                     'Recognition Status: Federal',
                     'PO Box 3162',
-                    'Santa Rosa, CA95402-3162'
-    ]
+                    'Santa Rosa, CA95402-3162']
     },
     {
         coords: [38.5155226, -122.7873196],
@@ -676,8 +615,7 @@ var markers = [
                     'Fax: (707) 575-6974',
                     'Recognition Status: Federal',
                     '437 Aviation Boulevard',
-                    'Santa Rosa, CA95403'
-    ]
+                    'Santa Rosa, CA95403']
 
     },
     {
@@ -688,8 +626,7 @@ var markers = [
                     'Fax: (707) 882-3417',
                     'Recognition Status: Federal',
                     'PO Box 623',
-                    'Point Arena, CA95468-0623'
-    ]
+                    'Point Arena, CA95468-0623']
     },
     {
         coords: [32.6636254, -116.2738148],
@@ -699,8 +636,7 @@ var markers = [
                     'Fax: (619) 766-4957',
                     'Recognition Status: Federal',
                     'PO Box 1302',
-                    'Boulevard, CA91905-0402',
-    ]
+                    'Boulevard, CA91905-0402',]
     },
     {
         coords: [39.7530638, -121.8606691],
@@ -710,8 +646,7 @@ var markers = [
                     'Fax: (530) 899-8517',
                     'Recognition Status: Federal',
                     '125 Mission Ranch Boulevard',
-                    'Chico, CA95926-2175'
-    ]
+                    'Chico, CA95926-2175']
     },
     { 
         coords: [33.1091684, -116.673794],
@@ -721,8 +656,7 @@ var markers = [
                     'Fax: (760) 782-0795',
                     'Recognition Status: Federal',
                     'PO Box 270',
-                    'Santa Ysabel, CA92070-0270'
-    ]
+                    'Santa Ysabel, CA92070-0270']
     },
     {
         coords: [38.7524045, -122.6149853],
@@ -744,8 +678,7 @@ var markers = [
                     'Fax: (530) 533-3680',
                     'Recognition Status: Federal',
                     '1 Alverda Drive',
-                    'Oroville, CA95966-9379'
-    ]
+                    'Oroville, CA95966-9379']
     },
     {
         coords: [33.9398629 -116.8102138],
@@ -755,8 +688,7 @@ var markers = [
                     'Fax: (951) 755-5109',
                     'Recognition Status: Federal',
                     '12700 Pumarra Rd',
-                    'Banning, CA92220-6977'
-    ]
+                    'Banning, CA92220-6977']
     },
     {
          coords: [37.2293765, -119.5093812],
@@ -766,8 +698,7 @@ var markers = [
                     'Fax: (559) 877-2467',
                     'Recognition Status: Federal',
                     'PO Box 929',
-                    'North Fork, CA93643-0929'
-    ]
+                    'North Fork, CA93643-0929']
     },
     {
         coords: [33.3652166, -117.0764739],
@@ -777,8 +708,7 @@ var markers = [
                     'Fax: (760) 891-3584',
                     'Recognition Status: Federal',
                     '35008 Pala Temecula Rd',
-                    'Pala, CA92059-2419'     
-    ]
+                    'Pala, CA92059-2419']
     },
     {
         coords: [39.9276572, -122.1791556],
@@ -788,8 +718,7 @@ var markers = [
                     'Fax: (530) 528-3553',
                     'Recognition Status: Federal',
                     'PO Box 709',
-                    'Corning, CA96021'
-    ]
+                    'Corning, CA96021']
     },
     {
         coords: [39.9276572, -122.1791556],
@@ -799,8 +728,7 @@ var markers = [
                     'Fax: (760) 742-3422',
                     'Recognition Status: Federal',
                     'PO Box 369',
-                    'Pauma Valley, CA92061-0369'
-    ]
+                    'Pauma Valley, CA92061-0369']
     },
     {
         coords: [33.44841, -117.08867],
@@ -810,8 +738,7 @@ var markers = [
                     'Fax: (951) 695-1778',
                     'Recognition Status: Federal',
                     'PO Box 1477',
-                    'Temecula, CA92593-1477'
-    ]
+                    'Temecula, CA92593-1477']
     },
     {
         coords: [36.8533631, -119.8051492],
@@ -821,8 +748,7 @@ var markers = [
                     'Fax: (559) 666-3321',
                     'Recognition Status: Federal',
                     'PO Box 2226',
-                    'Oakhurst, CA93644'
-    ]
+                    'Oakhurst, CA93644']
     },
     {
         coords: [39.1796399, -123.2196454],
@@ -832,8 +758,7 @@ var markers = [
                     'Fax: (707) 463-6601',
                     'Recognition Status: Federal',
                     '500 Pinoleville Rd Ste B',
-                    'Ukiah, CA95482-7121'
-    ]
+                    'Ukiah, CA95482-7121']
     },
     {
         coords: [40.8761232, -121.6711219],
@@ -843,8 +768,7 @@ var markers = [
                     'Fax: (530) 335-3140',
                     'Recognition Status: Federal',
                     '3670 Park Avenue',
-                    'Burney, CA96013-4128'
-    ]
+                    'Burney, CA96013-4128']
     },
     {
         coords: [39.3221089, -123.113059],
@@ -854,8 +778,7 @@ var markers = [
                     'Fax: (707) 462-1240',
                     'Recognition Status: Federal',
                     '2251 South State Street',
-                    'Ukiah, CA95482-6723'
-    ]
+                    'Ukiah, CA95482-6723']
     },
     {
         coords: [41.6010261, -122.9750197],
@@ -865,8 +788,7 @@ var markers = [
                     'Fax: (530) 468-5908',
                     'Recognition Status: Federal',
                     '13601 Quartz Valley Rd',
-                    'Fort Jones, CA96032-9714'
-    ]
+                    'Fort Jones, CA96032-9714']
     },
     {
         coords: [33.5555, -116.6782],
@@ -876,8 +798,7 @@ var markers = [
                     'Fax: (951) 769-4325',
                     'Recognition Status: Federal',
                     '56310 Highway 371, Suite B',
-                    'Anza, CA92539'
-    ]
+                    'Anza, CA92539']
     },
     {
         coords: [40.5069031, -122.3858174],
@@ -887,8 +808,7 @@ var markers = [
                     'Fax: (530) 242-4540',
                     'Recognition Status: Federal',
                     '2000 Redding Rancheria Road',
-                    'Redding, CA96001-5528'
-    ]
+                    'Redding, CA96001-5528']
     },
     {
         coords: [39.287016, -123.184024],
@@ -898,8 +818,7 @@ var markers = [
                     'Fax: (707) 485-5726',
                     'Recognition Status: Federal',
                     '3250 Road I',
-                    'Redwood Valley, CA95470-9526'
-    ]
+                    'Redwood Valley, CA95470-9526']
     },
     {
         coords: [41.5265092, -124.0384069],
@@ -909,8 +828,7 @@ var markers = [
                     'Fax: (707) 482-3425',
                     'Recognition Status: Federal',
                     'PO Box 529',
-                    'Klamath, CA95548-0529'
-    ]
+                    'Klamath, CA95548-0529']
     },
     {
         coords: [33.2738725, -116.957577],
@@ -920,8 +838,7 @@ var markers = [
                     'Fax: (760) 749-8901',
                     'Recognition Status: Federal',
                     '1 West Tribal Road',
-                    'Valley Center, CA92082-0068'
-    ]
+                    'Valley Center, CA92082-0068']
     },
     {
         coords: [39.1112521, -122.8253741],
@@ -931,8 +848,7 @@ var markers = [
                     'Fax: (707) 275-0325',
                     'Recognition Status: Federal',
                     'PO Box 4015',
-                    'Nice, CA95464-4015'
-    ]
+                    'Nice, CA95464-4015']
     },
     {
         coords: [39.8143599, -123.248213],
@@ -942,8 +858,7 @@ var markers = [
                     'Fax: (707) 983-6128',
                     'Recognition Status: Federal',
                     '77826 Covelo Road',
-                    'Covelo, CA95428-0448'
-    ]
+                    'Covelo, CA95428-0448']
     },
     {
         coords: [34.1506988, -117.214223],
@@ -953,8 +868,7 @@ var markers = [
                     'Fax: (909) 864-3370',
                     'Recognition Status: Federal',
                     '26569 Community Center Drive',
-                    'Highland, CA92346',
-    ]
+                    'Highland, CA92346',]
     },
     {
         coords: [33.2183701, --117.0341967],
@@ -965,10 +879,7 @@ var markers = [
                     'Fax: (760) 749-3876',
                     'Recognition Status: Federal',
                     'PO Box 365',
-                    'Valley Center, CA92082-0365'
-
-                    
-    ]
+                    'Valley Center, CA92082-0365']
     },
     {
         coords: [33.5257713, -116.6317514],
@@ -978,8 +889,7 @@ var markers = [
                     'Fax: (951) 659-2228',
                     'Recognition Status: Federal',
                     'PO Box 391820',
-                    'Anza, CA92539'
-    ]
+                    'Anza, CA92539' ]
     },
     {
         coords: [36.3007835, -119.7829107],
@@ -989,8 +899,7 @@ var markers = [
                     'Fax: (559) 924-2931',
                     'Recognition Status: Federal',
                     'PO Box 8',
-                    'Lemoore, CA93245-0008'
-    ]
+                    'Lemoore, CA93245-0008']
     },
     {
         coords: [34.6144313, -120.079868],
@@ -1000,13 +909,11 @@ var markers = [
                     'Fax: (805) 686-9578',
                     'Recognition Status: Federal',
                     'PO Box 517',
-                    'Santa Ynez, CA93460-0517'
-    
-    ]
+                    'Santa Ynez, CA93460-0517']
     }
     
 
-    // Add more markers here
+    
 ];
 
 markers.forEach(function(markerInfo) {

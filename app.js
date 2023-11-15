@@ -953,7 +953,7 @@ var markers = [
     ]
     },
     {
-        coords: [33.2183701, --117.0341967],
+        coords: [33.2183701, -117.0341967],
         popupText: ['San Pasqual Band of Diegueno Indians',
                     'Allen Lawson (Tribal Chairman)',
                     'Allen Lawson (Tribal Chairman)',

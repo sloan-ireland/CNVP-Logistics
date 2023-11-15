@@ -1229,7 +1229,7 @@ if (mymap) {
     ];
 
     markers.forEach(function(markerInfo) {
-        var newMarker = L.marker(markerInfo.coords).addTo(mymap);
+        var newMarker = L.marker((markerInfo.coords), {icon: greenIcon}).addTo(mymap);
 
         if (markerInfo.popupText) {
             var popupContent = markerInfo.popupText.join('<br>');

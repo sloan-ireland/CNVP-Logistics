@@ -12,6 +12,17 @@ var mymap = L.map('mapid', {
     minZoom: 6   // Set the minimum zoom level
 }).setView([36.7783, -119.4179], 6); // Centered on California with an appropriate zoom level
 
+var greenIcon = L.icon({
+    iconUrl: 'leaf-green.png',
+    shadowUrl: 'leaf-shadow.png',
+
+    iconSize:     [38, 95], // size of the icon
+    shadowSize:   [50, 64], // size of the shadow
+    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    shadowAnchor: [4, 62],  // the same for the shadow
+    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
+
 // Add a tile layer 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -1254,7 +1265,7 @@ var markers = [
 ];
 
 markers.forEach(function(marker) {
-    var newMarker = L.marker(marker.coords).addTo(mymap);
+    var newMarker = L.marker((marker.coords), {icon: greenIcon}).addTo(mymap);
 
     if (marker.popupText) {
         // Join the lines of text from the array with line breaks

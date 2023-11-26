@@ -70,8 +70,9 @@ html {
 
 /* Style the map with a border */
 #mapid {
-    width: calc(100% - 1in); 
-    height: calc(100% - 1in); 
+    width: 800px;  
+    height: 600px; 
     border: 0.5in solid rgb(234, 53, 12); 
 }
+
 

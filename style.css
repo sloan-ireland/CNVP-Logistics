@@ -70,9 +70,11 @@ html {
 
 /* Style the map with a border */
 #mapid {
-    width: 800px;  
-    height: 600px; 
-    border: 0.5in solid rgb(234, 53, 12); 
+    width: 100%; /* Adjust this to your desired width */
+    height: auto; /* This will maintain the aspect ratio */
+    aspect-ratio: 16 / 9; /* Define the aspect ratio */
+    border: 0.5in solid rgb(234, 53, 12);
 }
+
 
 

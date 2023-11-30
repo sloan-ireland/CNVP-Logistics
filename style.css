@@ -33,13 +33,13 @@ html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-    background-image: url("https://www.w3schools.com/w3images/parallax2.jpg");
+    background-image: url("https://www.dailynews.com/wp-content/uploads/2023/03/FB_IMG_1656458425231-1.jpg?w=1024");
     min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-    background-image: url("https://www.w3schools.com/w3images/parallax3.jpg");
+    background-image: url("https://canativevote.org/wp-content/uploads/2020/02/CNVP_WebsiteLogo4.png");
     min-height: 400px;
 }
 
